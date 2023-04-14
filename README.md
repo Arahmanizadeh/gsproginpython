@@ -1,2 +1,2 @@
-[comment]: # gsproginpython
+!<-- [comment]: # gsproginpython -->
 # Geospatial Programming in Python
